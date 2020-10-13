@@ -1,0 +1,10 @@
+02e33839718e591efd2649100c5e5ffe *DESCRIPTION
+49ee24c7db4c36d1bc6284bd2ca551c3 *NAMESPACE
+6c73ebb694873c3a4b59dd7485531cf4 *R/SE.EQ.R
+e5876378c679afbadfb9848c4138389d *R/SE.EQ.dissolution.profiles.R
+b42b8e6f06738f7e793dd76ced740a2b *build/partial.rdb
+f7254d63fdebef885bf87efe8c45f693 *data/ex_data_JoBS.rda
+963890f26438f277063d3e91cbcb2701 *man/SE.EQ-package.Rd
+877e19a50c4c4090124edde0274138cb *man/SE.EQ.Rd
+3fd8526753758ea129686cac42855c4b *man/SE.EQ.dissolution.profiles.Rd
+8167d9e3d83be77f23faaf96392810eb *man/ex_data_JoBS.Rd
